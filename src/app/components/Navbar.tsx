@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import Link from "next/link";
 import styles from "@/app/page.module.css"
 import Image from "next/image";
-import 'boxicons/css/boxicons.min.css';  
+import 'boxicons/css/boxicons.min.css';
 
 const Navbar: React.FC = () => {
     const [isMobileMenuOpen, setMobileMenuOpen] = useState(false);

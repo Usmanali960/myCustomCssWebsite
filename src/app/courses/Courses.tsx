@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import styles from "@/app/page.module.css"// Import the CSS module
-import 'boxicons/css/boxicons.min.css';  
+import 'boxicons/css/boxicons.min.css';
 
 const coursesData = [
     {

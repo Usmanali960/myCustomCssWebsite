@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from "@/app/page.module.css"// Import the CSS module
-import 'boxicons/css/boxicons.min.css';  
+import 'boxicons/css/boxicons.min.css';
 
 const Footer = () => {
   return (
